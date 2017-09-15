@@ -1,0 +1,14 @@
+{
+    "name": "lzsygr/composer-demo",
+    "description": "simple composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dats",
+            "email": "2292303916@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
